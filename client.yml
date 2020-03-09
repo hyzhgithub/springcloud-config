@@ -7,3 +7,6 @@ spring:
     name: springcloud-config
 server:
   port: 8770
+userinfo:
+  username: jilinwula
+  password: 123456789
